@@ -1,3 +1,3 @@
 # Dice-Challenge
 
-link : 
+link : https://saipreetham7.github.io/Dice-Challenge/
