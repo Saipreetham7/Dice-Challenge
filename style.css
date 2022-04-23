@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #069A8E;
+}
+
+.head{
+    font-size: 8rem;
+    text-align: center;
+    margin: 2rem 0;
+    font-family: 'Tapestry', cursive;
+    color: #F7FF93;
+    text-shadow: 5px 5px 5px red;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+
+.player{
+    font-size: 2rem;
+    font-family: 'My Soul', cursive;
+    font-weight: bolder;
+    color: #F7FF93;
+}
+
+.img1, .img2{
+    height: 150px;
+}
+
+.play{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #005555;
+}
+
+#win{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Tapestry', cursive;
+    margin-top: 20px;
+    color: #F7FF93;
+}
